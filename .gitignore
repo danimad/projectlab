@@ -11,7 +11,10 @@ cabal-dev
 .hsenv
 .cabal-sandbox/
 cabal.sandbox.config
+<<<<<<< HEAD
 .stack-work/
+=======
+>>>>>>> projectlab/master
 *.prof
 *.aux
 *.hp
